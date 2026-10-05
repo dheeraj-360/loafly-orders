@@ -1,0 +1,115 @@
+2026-10-04 14:43:55,935 INFO Pipeline started
+2026-10-04 14:43:55,944 INFO Extracted 15 orders
+2026-10-04 14:43:55,944 WARNING Order 5004: skipping 'Chocolate Cake Slice', bad price ''
+2026-10-04 14:43:55,944 WARNING Order 5009: skipping 'Blueberry Muffin', bad price ''
+2026-10-04 14:43:55,944 WARNING Order 5013: skipping 'Cookie Box', bad price ''
+2026-10-04 14:43:55,944 INFO 15 orders remain after cleaning
+2026-10-04 14:43:55,944 INFO Order 5001: saved on attempt 1, total=297.0
+2026-10-04 14:43:55,944 INFO Order 5002: saved on attempt 1, total=513.0
+2026-10-04 14:43:55,944 INFO Order 5003: saved on attempt 1, total=666.0
+2026-10-04 14:43:55,944 WARNING Order 5004: attempt 1 failed - orders API unavailable for order 5004
+2026-10-04 14:43:56,947 WARNING Order 5004: attempt 2 failed - orders API unavailable for order 5004
+2026-10-04 14:43:57,949 INFO Order 5004: saved on attempt 3, total=369.0
+2026-10-04 14:43:57,949 WARNING Order 5005: attempt 1 failed - orders API unavailable for order 5005
+2026-10-04 14:43:58,950 INFO Order 5005: saved on attempt 2, total=243.0
+2026-10-04 14:43:58,950 WARNING Order 5006: attempt 1 failed - orders API unavailable for order 5006
+2026-10-04 14:43:59,951 INFO Order 5006: saved on attempt 2, total=1116.0
+2026-10-04 14:43:59,951 INFO Order 5007: saved on attempt 1, total=369.0
+2026-10-04 14:43:59,951 INFO Order 5008: saved on attempt 1, total=639.0
+2026-10-04 14:43:59,951 WARNING Order 5009: attempt 1 failed - orders API unavailable for order 5009
+2026-10-04 14:44:00,952 INFO Order 5009: saved on attempt 2, total=396.0
+2026-10-04 14:44:00,952 INFO Order 5010: saved on attempt 1, total=1467.0
+2026-10-04 14:44:00,952 WARNING Order 5011: attempt 1 failed - orders API unavailable for order 5011
+2026-10-04 14:44:01,954 INFO Order 5011: saved on attempt 2, total=189.0
+2026-10-04 14:44:01,954 WARNING Order 5012: attempt 1 failed - orders API unavailable for order 5012
+2026-10-04 14:44:02,954 WARNING Order 5012: attempt 2 failed - orders API unavailable for order 5012
+2026-10-04 14:44:03,955 INFO Order 5012: saved on attempt 3, total=351.0
+2026-10-04 14:44:03,955 WARNING Order 5013: attempt 1 failed - orders API unavailable for order 5013
+2026-10-04 14:44:04,956 INFO Order 5013: saved on attempt 2, total=135.0
+2026-10-04 14:44:04,956 WARNING Order 5014: attempt 1 failed - orders API unavailable for order 5014
+2026-10-04 14:44:05,957 INFO Order 5014: saved on attempt 2, total=603.0
+2026-10-04 14:44:05,957 WARNING Order 5015: attempt 1 failed - orders API unavailable for order 5015
+2026-10-04 14:44:06,958 INFO Order 5015: saved on attempt 2, total=135.0
+2026-10-04 14:44:06,958 INFO Pipeline finished
+2026-10-04 17:27:49,759 INFO Pipeline started
+2026-10-04 17:27:49,759 INFO Extracted 15 orders
+2026-10-04 17:27:49,759 WARNING Order 5004: skipping 'Chocolate Cake Slice', bad price ''
+2026-10-04 17:27:49,759 WARNING Order 5009: skipping 'Blueberry Muffin', bad price ''
+2026-10-04 17:27:49,759 WARNING Order 5013: skipping 'Cookie Box', bad price ''
+2026-10-04 17:27:49,759 INFO 15 orders remain after cleaning
+2026-10-04 17:27:49,759 WARNING Order 5001: attempt 1 failed - orders API unavailable for order 5001
+2026-10-04 17:27:50,791 WARNING Order 5001: attempt 2 failed - orders API unavailable for order 5001
+2026-10-04 17:27:51,816 INFO Order 5001: saved on attempt 3, total=297.0
+2026-10-04 17:27:51,816 INFO Order 5002: saved on attempt 1, total=513.0
+2026-10-04 17:27:51,817 INFO Order 5003: saved on attempt 1, total=666.0
+2026-10-04 17:27:51,817 INFO Order 5004: saved on attempt 1, total=369.0
+2026-10-04 17:27:51,819 INFO Order 5005: saved on attempt 1, total=243.0
+2026-10-04 17:27:51,848 INFO Order 5006: saved on attempt 1, total=1116.0
+2026-10-04 17:27:51,866 INFO Order 5007: saved on attempt 1, total=369.0
+2026-10-04 17:27:51,873 WARNING Order 5008: attempt 1 failed - orders API unavailable for order 5008
+2026-10-04 17:27:52,881 WARNING Order 5008: attempt 2 failed - orders API unavailable for order 5008
+2026-10-04 17:27:53,882 WARNING Order 5008: attempt 3 failed - orders API unavailable for order 5008
+2026-10-04 17:27:53,882 ERROR Order 5008: failed to save after 3 attempts
+2026-10-04 17:27:53,882 INFO Order 5009: saved on attempt 1, total=396.0
+2026-10-04 17:27:53,882 INFO Order 5010: saved on attempt 1, total=1467.0
+2026-10-04 17:27:53,882 INFO Order 5011: saved on attempt 1, total=189.0
+2026-10-04 17:27:53,882 INFO Order 5012: saved on attempt 1, total=351.0
+2026-10-04 17:27:53,882 WARNING Order 5013: attempt 1 failed - orders API unavailable for order 5013
+2026-10-04 17:27:54,883 INFO Order 5013: saved on attempt 2, total=135.0
+2026-10-04 17:27:54,883 INFO Order 5014: saved on attempt 1, total=603.0
+2026-10-04 17:27:54,883 WARNING Order 5015: attempt 1 failed - orders API unavailable for order 5015
+2026-10-04 17:27:55,885 INFO Order 5015: saved on attempt 2, total=135.0
+2026-10-04 17:27:55,885 INFO Pipeline finished
+2026-10-04 17:29:03,579 INFO Pipeline started
+2026-10-04 17:29:03,579 INFO Extracted 15 orders
+2026-10-04 17:29:03,579 WARNING Order 5004: skipping 'Chocolate Cake Slice', bad price ''
+2026-10-04 17:29:03,579 WARNING Order 5009: skipping 'Blueberry Muffin', bad price ''
+2026-10-04 17:29:03,579 WARNING Order 5013: skipping 'Cookie Box', bad price ''
+2026-10-04 17:29:03,579 INFO 15 orders remain after cleaning
+2026-10-04 17:29:03,579 INFO Order 5001: saved on attempt 1, total=297.0
+2026-10-04 17:29:03,579 INFO Order 5002: saved on attempt 1, total=513.0
+2026-10-04 17:29:03,579 INFO Order 5003: saved on attempt 1, total=666.0
+2026-10-04 17:29:03,579 INFO Order 5004: saved on attempt 1, total=369.0
+2026-10-04 17:29:03,579 INFO Order 5005: saved on attempt 1, total=243.0
+2026-10-04 17:29:03,579 WARNING Order 5006: attempt 1 failed - orders API unavailable for order 5006
+2026-10-04 17:29:04,584 INFO Order 5006: saved on attempt 2, total=1116.0
+2026-10-04 17:29:04,584 INFO Order 5007: saved on attempt 1, total=369.0
+2026-10-04 17:29:04,586 WARNING Order 5008: attempt 1 failed - orders API unavailable for order 5008
+2026-10-04 17:29:05,587 INFO Order 5008: saved on attempt 2, total=639.0
+2026-10-04 17:29:05,587 INFO Order 5009: saved on attempt 1, total=396.0
+2026-10-04 17:29:05,587 INFO Order 5010: saved on attempt 1, total=1467.0
+2026-10-04 17:29:05,587 WARNING Order 5011: attempt 1 failed - orders API unavailable for order 5011
+2026-10-04 17:29:06,588 WARNING Order 5011: attempt 2 failed - orders API unavailable for order 5011
+2026-10-04 17:29:07,589 WARNING Order 5011: attempt 3 failed - orders API unavailable for order 5011
+2026-10-04 17:29:07,589 ERROR Order 5011: failed to save after 3 attempts
+2026-10-04 17:29:07,589 INFO Order 5012: saved on attempt 1, total=351.0
+2026-10-04 17:29:07,589 WARNING Order 5013: attempt 1 failed - orders API unavailable for order 5013
+2026-10-04 17:29:08,591 INFO Order 5013: saved on attempt 2, total=135.0
+2026-10-04 17:29:08,591 INFO Order 5014: saved on attempt 1, total=603.0
+2026-10-04 17:29:08,591 INFO Order 5015: saved on attempt 1, total=135.0
+2026-10-04 17:29:08,591 INFO Pipeline finished
+2026-10-05 10:22:27,131 INFO Pipeline started
+2026-10-05 10:22:27,146 INFO Extracted 15 orders
+2026-10-05 10:22:27,146 WARNING Order 5004: skipping 'Chocolate Cake Slice', bad price ''
+2026-10-05 10:22:27,146 WARNING Order 5009: skipping 'Blueberry Muffin', bad price ''
+2026-10-05 10:22:27,146 WARNING Order 5013: skipping 'Cookie Box', bad price ''
+2026-10-05 10:22:27,146 INFO 15 orders remain after cleaning
+2026-10-05 10:22:27,150 INFO Order 5001: saved on attempt 1, total=297.0
+2026-10-05 10:22:27,150 INFO Order 5002: saved on attempt 1, total=513.0
+2026-10-05 10:22:27,150 WARNING Order 5003: attempt 1 failed - orders API unavailable for order 5003
+2026-10-05 10:22:28,151 INFO Order 5003: saved on attempt 2, total=666.0
+2026-10-05 10:22:28,153 WARNING Order 5004: attempt 1 failed - orders API unavailable for order 5004
+2026-10-05 10:22:29,158 INFO Order 5004: saved on attempt 2, total=369.0
+2026-10-05 10:22:29,158 INFO Order 5005: saved on attempt 1, total=243.0
+2026-10-05 10:22:29,158 INFO Order 5006: saved on attempt 1, total=1116.0
+2026-10-05 10:22:29,159 INFO Order 5007: saved on attempt 1, total=369.0
+2026-10-05 10:22:29,159 INFO Order 5008: saved on attempt 1, total=639.0
+2026-10-05 10:22:29,159 INFO Order 5009: saved on attempt 1, total=396.0
+2026-10-05 10:22:29,159 INFO Order 5010: saved on attempt 1, total=1467.0
+2026-10-05 10:22:29,159 INFO Order 5011: saved on attempt 1, total=189.0
+2026-10-05 10:22:29,160 INFO Order 5012: saved on attempt 1, total=351.0
+2026-10-05 10:22:29,160 INFO Order 5013: saved on attempt 1, total=135.0
+2026-10-05 10:22:29,160 WARNING Order 5014: attempt 1 failed - orders API unavailable for order 5014
+2026-10-05 10:22:30,162 INFO Order 5014: saved on attempt 2, total=603.0
+2026-10-05 10:22:30,162 INFO Order 5015: saved on attempt 1, total=135.0
+2026-10-05 10:22:30,162 INFO Pipeline finished
