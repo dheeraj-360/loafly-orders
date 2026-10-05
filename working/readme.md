@@ -28,6 +28,7 @@ in the source. This package fixes all of that.
 
 ## Project structure
 
+```
 working/
 ├── data/
 │   └── raw_orders.csv       # the day's raw orders
@@ -47,7 +48,7 @@ working/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
+```
 ## Setup
 
 1. Create a virtual environment:
